@@ -1,0 +1,12 @@
+
+Fond BITMAP "res/bg.bmp"
+DlgFond BITMAP "res/dlgbx.bmp"
+Icone ICON "res/astral.ico"
+Xon BITMAP "res/xon.bmp"
+Xoff BITMAP "res/xoff.bmp"
+Doon BITMAP "res/doon.bmp"
+Dooff BITMAP "res/dooff.bmp"
+Abon BITMAP "res/abon.bmp"
+Aboff BITMAP "res/aboff.bmp"
+Copyon BITMAP "res/copyon.bmp"
+Copyoff BITMAP "res/copyoff.bmp"
